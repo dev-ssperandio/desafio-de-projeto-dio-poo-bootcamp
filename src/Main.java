@@ -56,9 +56,10 @@ public class Main {
         devIvanessa.progredir();
         devIvanessa.progredir();
         devIvanessa.progredir();
+        devIvanessa.progredir();
         System.out.println("-");
-        System.out.println("Conteúdos Inscritos Sidney: " + devIvanessa.getConteudosInscritos());
-        System.out.println("Conteúdos Concluidos Sidney: " + devIvanessa.getConteudosConcluidos());
+        System.out.println("Conteúdos Inscritos Ivanessa: " + devIvanessa.getConteudosInscritos());
+        System.out.println("Conteúdos Concluidos Ivanessa: " + devIvanessa.getConteudosConcluidos());
         System.out.println("XP: " + devIvanessa.calcularTotalXp());
 
     }
